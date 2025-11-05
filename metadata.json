@@ -1,0 +1,5 @@
+{
+  "name": "Meeting Minutes Generator",
+  "description": "An intelligent assistant to generate concise and structured meeting minutes from audio recordings or text transcripts using the Gemini API.",
+  "requestFramePermissions": []
+}
